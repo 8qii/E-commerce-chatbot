@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot AI Bán Hàng</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            text-align: center;
+        }
+        h2 {
+            color: #333;
+        }
+        #chat-container {
+            width: 80%;
+            max-width: 600px;
+            margin: auto;
+            background: #fff;
+            border-radius: 10px;
+            padding: 15px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+            overflow-y: auto;
+            max-height: 400px;
+        }
+        .message {
+            padding: 10px;
+            margin: 8px;
+            border-radius: 8px;
+            max-width: 80%;
+            display: inline-block;
+            white-space: pre-line;
+        }
+        .user {
+            background: #d1e7fd;
+            text-align: right;
+            float: right;
+            clear: both;
+        }
+        .bot {
+            background: #f1f1f1;
+            text-align: left;
+            float: left;
+            clear: both;
+        }
+        #input-container {
+            margin-top: 10px;
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+        }
+        input {
+            width: 70%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            padding: 10px 15px;
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h2>Chatbot AI Bán Hàng</h2>
+    <div id="chat-container"></div>
+    
+    <div id="input-container">
+        <input type="text" id="userInput" placeholder="Nhập câu hỏi..." onkeypress="handleKeyPress(event)">
+        <button onclick="sendMessage()">Gửi</button>
+    </div>
+
+    <script>
+        async function sendMessage() {
+            let userInput = document.getElementById("userInput").value.trim();
+            if (!userInput) return;
+
+            let chatbox = document.getElementById("chat-container");
+            chatbox.innerHTML += `<div class='message user'>Bạn: ${userInput}</div>`;
+
+            document.getElementById("userInput").value = ""; // Xóa ô nhập
+            chatbox.scrollTop = chatbox.scrollHeight; // Cuộn xuống tin nhắn mới nhất
+
+            try {
+                let response = await fetch("http://127.0.0.1:5001/chat", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ message: userInput })
+                });
+
+                let data = await response.json();
+
+                let botReply = data.reply ? String(data.reply) : "Xin lỗi, hệ thống đang bảo trì"; 
+
+                let formattedReply = botReply
+                    .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")  // In đậm
+                    .replace(/\n/g, "<br>");  // Xuống dòng
+
+
+                chatbox.innerHTML += `<div class='message bot'>Bot: ${formattedReply}</div>`;
+                chatbox.scrollTop = chatbox.scrollHeight; // Cuộn xuống cuối
+            } catch (error) {
+                console.error("Lỗi gửi yêu cầu:", error);
+            }
+        }
+
+        function handleKeyPress(event) {
+            if (event.key === "Enter") sendMessage();
+        }
+    </script>
+</body>
+</html>

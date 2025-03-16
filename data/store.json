@@ -1,0 +1,18 @@
+{
+    "name": "Thời Trang Thanh Xuân",
+    "address": "123 Đường Nguyễn Trãi, Mỗ Lao, Hà Đông, TP. Hà Nội",
+    "open_hours": {
+        "Monday-Friday": "08:00 - 21:00",
+        "Saturday-Sunday": "09:00 - 22:00"
+    },
+    "description": "Cửa hàng thời trang cao cấp chuyên cung cấp các mẫu quần áo nam nữ và trẻ em theo xu hướng mới nhất, với chất lượng đảm bảo và giá cả hợp lý.",
+    "contact": {
+        "phone": "+84 909 123 456",
+        "email": "contact@thoitrangthanhxuan.vn",
+        "website": "https://thoitrangthanhxuan.vn",
+        "social_media": {
+            "facebook": "https://facebook.com/thoitrangthanhxuan",
+            "instagram": "https://instagram.com/thoitrangthanhxuan"
+        }
+    }
+}

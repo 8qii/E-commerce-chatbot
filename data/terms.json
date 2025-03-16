@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Chính sách đổi trả",
+        "content": "Sản phẩm có thể được đổi trả trong vòng 7 ngày kể từ ngày nhận hàng, với điều kiện sản phẩm còn nguyên vẹn, chưa qua sử dụng và có đầy đủ hóa đơn mua hàng."
+    },
+    {
+        "id": 2,
+        "title": "Bảo hành",
+        "content": "Bảo hành chính hãng 12 tháng với lỗi từ nhà sản xuất. Không áp dụng bảo hành đối với hư hỏng do người dùng gây ra."
+    },
+    {
+        "id": 3,
+        "title": "Chính sách vận chuyển",
+        "content": "Chúng tôi cung cấp dịch vụ giao hàng toàn quốc với thời gian từ 2-5 ngày làm việc. Miễn phí vận chuyển cho đơn hàng trên 500.000 VNĐ."
+    },
+    {
+        "id": 4,
+        "title": "Chính sách hoàn tiền",
+        "content": "Khách hàng có thể yêu cầu hoàn tiền nếu sản phẩm bị lỗi hoặc không đúng với mô tả. Quá trình hoàn tiền có thể mất từ 5-7 ngày làm việc."
+    },
+    {
+        "id": 5,
+        "title": "Điều khoản sử dụng",
+        "content": "Bằng việc sử dụng dịch vụ của chúng tôi, bạn đồng ý tuân thủ các điều khoản và điều kiện của chúng tôi. Vui lòng đọc kỹ trước khi sử dụng."
+    },
+    {
+        "id": 6,
+        "title": "Chính sách bảo mật",
+        "content": "Chúng tôi cam kết bảo vệ thông tin cá nhân của khách hàng và không chia sẻ dữ liệu với bên thứ ba nếu không có sự đồng ý của khách hàng."
+    },
+    {
+        "id": 7,
+        "title": "Hướng dẫn thanh toán",
+        "content": "Chúng tôi chấp nhận thanh toán qua thẻ tín dụng, thẻ ghi nợ, chuyển khoản ngân hàng và thanh toán khi nhận hàng (COD)."
+    },
+    {
+        "id": 8,
+        "title": "Hỗ trợ khách hàng",
+        "content": "Bạn có thể liên hệ với chúng tôi qua hotline 1800-xxxx hoặc email support@company.com để được hỗ trợ nhanh nhất."
+    }
+]

@@ -1,0 +1,1583 @@
+question,type
+Áo trễ vai hoa nữ giá bao nhiêu,product
+Quy định đổi trả hàng như thế nào,terms
+Cửa hàng ở đâu,store_info
+Hôm nay trời đẹp không,else
+Quần tây nam có màu nào khác không,product
+Giao hàng mất bao lâu,terms
+Giờ mở cửa của cửa hàng là mấy giờ,store_info
+Bạn có biết cách nấu ăn không,else
+Áo thun Puma đen có size XL không,product
+Sản phẩm có được hoàn tiền không,terms
+Số điện thoại liên hệ của cửa hàng là gì,store_info
+Tối nay tôi nên xem phim gì,else
+Váy hoa công chúa bé gái có màu xanh không,product
+Bảo hành sản phẩm bao lâu,terms
+Cửa hàng có trang web không,store_info
+Con chó nhà tôi bị bệnh làm sao đây,else
+Áo polo nam có màu vàng không,product
+Mua hàng trên 500 nghìn có gì khác biệt không,terms
+Địa chỉ của cửa hàng có gần trung tâm không,store_info
+Cái này có liên quan gì đến đời sống,else
+Áo thun nữ có logo Puma giá bao nhiêu,product
+Đổi hàng có mất phí không,terms
+Cửa hàng có bán hàng online không,store_info
+Tháng sau tôi có nên đi du lịch không,else
+Quần jogger nam có màu đen không,product
+Thanh toán bằng thẻ được không,terms
+Chủ nhật cửa hàng mở cửa không,store_info
+Bạn có thích nghe nhạc không,else
+Áo sơ mi nữ xanh pastel có size S không,product
+Chính sách bảo mật thông tin ra sao,terms
+Facebook của cửa hàng là gì,store_info
+Hôm nay có sự kiện gì hấp dẫn không,else
+Áo thun bé gái có màu hồng nhạt không,product
+Hàng bị lỗi có được đổi mới không,terms
+Cửa hàng có chi nhánh khác không,store_info
+Tôi muốn học tiếng Anh ở đâu tốt,else
+Quần palazzo nữ có size XL không,product
+Sản phẩm có được giao tận nơi không,terms
+Instagram của cửa hàng là gì,store_info
+Cái áo này có hợp với tôi không,else
+Áo khoác jeans nữ có màu xanh đậm không,product
+Hỗ trợ khách hàng qua kênh nào,terms
+Cửa hàng có bản đồ dẫn đường không,store_info
+Bạn có tin vào tình yêu không,else
+Áo thun nam Nike có màu nâu không,product
+Mua hàng COD có mất thêm phí không,terms
+Cửa hàng có gần bến xe không,store_info
+Tối nay tôi nên ăn gì,else
+Váy bé gái hoa nhí có size M không,product
+Điều kiện đổi trả hàng cụ thể ra sao,terms
+Email liên hệ của cửa hàng là gì,store_info
+Bạn có biết cách làm đẹp không,else
+Áo polo nam Lacoste có size XXL không,product
+Sản phẩm có bảo hành chính hãng không,terms
+Cửa hàng có bán hàng vào thứ bảy không,store_info
+Tôi có nên mua điện thoại mới không,else
+Quần âu nam có màu xám không,product
+Hoàn tiền mất bao lâu,terms
+Website của cửa hàng có gì đặc biệt,store_info
+Bạn có thích chơi game không,else
+Áo thun bé trai có chữ GOAL không,product
+Chính sách vận chuyển có gì mới,terms
+Cửa hàng có ở Hà Nội thôi không,store_info
+Tôi nên tập gym hay yoga,else
+Áo sơ mi nam xanh navy có size L không,product
+Đổi hàng có cần hóa đơn không,terms
+Cửa hàng có bán hàng qua mạng xã hội không,store_info
+Bạn có biết cách tiết kiệm tiền không,else
+Áo khoác phao nữ có màu đen không,product
+Hàng lỗi có được hoàn tiền ngay không,terms
+Giờ đóng cửa của cửa hàng là mấy giờ,store_info
+Tôi có nên đi ngủ sớm không,else
+Quần jean bé có size S không,product
+Mua hàng online có được đổi trả không,terms
+Cửa hàng có khuyến mãi gì không,store_info
+Bạn có thích màu xanh lá không,else
+Áo thun nữ cổ tim có màu xám không,product
+Chính sách thanh toán có gì đặc biệt,terms
+Cửa hàng có ở khu vực Hà Đông không,store_info
+Cuối tuần tôi nên làm gì,else
+Áo khoác nam Adidas có màu vàng không,product
+Sản phẩm có được kiểm tra trước không,terms
+Cửa hàng có bán hàng vào buổi tối không,store_info
+Bạn có biết cách chụp ảnh đẹp không,else
+Quần suông nữ có màu xanh nhạt không,product
+Giao hàng có mất phí bao nhiêu,terms
+Cửa hàng có gần chợ không,store_info
+Hôm nay tôi nên nghe nhạc gì,else
+Áo thun nam GAP có màu xanh lá không,product
+Đổi trả hàng có giới hạn thời gian không,terms
+Cửa hàng có bán hàng vào ngày lễ không,store_info
+Bạn có thích ăn đồ chua không,else
+Áo khoác nữ Nike có size XL không,product
+Hàng lỗi có được đổi ngay tại chỗ không,terms
+Cửa hàng có giao hàng vào cuối tuần không,store_info
+Bạn có biết cách học nấu ăn không,else
+áo trễ vai hoa nữ bao nhiêu tiền,product
+chính sách đổi hàng sao zậy,terms
+cửa hàng nằm chỗ nào,store_info
+trời hôm nay có mưa hok,else
+quần tây nam có màu trắng hok,product
+giao hàng nhanh hok,terms
+cửa hàng mở lúc mấy giờ,store_info
+bạn thích ăn phở hay bún,else
+áo thun puma đen còn size m hok,product
+mua xong trả lại được hok,terms
+số phone cửa hàng là số nào,store_info
+tối nay đi chơi đâu vui,else
+váy hoa bé gái có size l hok,product
+bảo hành bao lâu zậy,terms
+cửa hàng có web bán hàng hok,store_info
+mèo nhà mình kêu nhiều quá làm sao,else
+áo polo nam màu đỏ có hok,product
+mua 1 triệu có free ship hok,terms
+địa chỉ cửa hàng gần phố cổ hok,store_info
+bạn có biết chơi cờ vua hok,else
+áo thun nữ puma trắng giá bao nhiêu,product
+đổi size khác có tốn tiền hok,terms
+cửa hàng có bán trên mạng hok,store_info
+hôm nay mặc gì cho đẹp,else
+quần jogger nam có dây rút hok,product
+thanh toán COD có tiện hok,terms
+cửa hàng chủ nhật nghỉ hok,store_info
+teen code là gì bạn biết hok,else
+áo sơ mi nữ xanh nhạt còn size xl hok,product
+hàng lỗi đổi kiểu khác được hok,terms
+facebook cửa hàng tên gì,store_info
+mùa này đi du lịch chỗ nào ngon,else
+áo thun bé gái hồng có thêu hoa hok,product
+mua online đổi hàng sao nổi,terms
+cửa hàng có ở sài gòn hok,store_info
+bạn thích trà sữa hay cà phê,else
+quần palazzo nữ màu đen có sẵn hok,product
+giao hàng xa có mất phí hok,terms
+instagram cửa hàng là gì vậy,store_info
+mình học vẽ ở đâu thì xịn,else
+áo khoác jeans nữ size s còn hok,product
+hỗ trợ khách hàng kiểu gì,terms
+cửa hàng gần bờ hồ hok,store_info
+bạn có tin ma quỷ hok,else
+áo thun nam nike vàng có sẵn hok,product
+mua COD có cần trả trước hok,terms
+cửa hàng có gần ga tàu hok,store_info
+hôm nay ăn gì cho ngon zẻ,else
+váy bé gái hoa nhí màu trắng có hok,product
+đổi hàng cũ lấy mới được hok,terms
+email cửa hàng là gì vậy,store_info
+bạn có biết nấu phở bò hok,else
+áo polo nam lacoste hồng còn hok,product
+hàng lỗi hoàn tiền sao nổi,terms
+cửa hàng mở tối hok,store_info
+mình nên mua giày hãng nào,else
+quần âu nam xanh navy có size xl hok,product
+ship hàng nội thành bao lâu,terms
+cửa hàng có khuyến mãi gì hot hok,store_info
+bạn thích xem phim kinh dị hok,else
+áo thun bé trai trắng có chữ USA hok,product
+mua online kiểm tra hàng trước được hok,terms
+cửa hàng có bán qua zalo hok,store_info
+hôm nay ngủ mấy giờ thì đủ,else
+áo khoác phao nữ hồng nhạt còn size m hok,product
+hàng hỏng đổi ngay tại chỗ được hok,terms
+cửa hàng giao hàng cuối tuần hok,store_info
+bạn có thích hát karaoke hok,else
+quần jean bé màu xanh còn size l hok,product
+mua trên web có đổi trả hok,terms
+cửa hàng ở hà đông có đông hok,store_info
+mình nên học tiếng nhật hay hàn,else
+áo thun nữ cổ tim xám giá bao nhiêu,product
+chính sách ship hàng có gì hay,terms
+cửa hàng có gần siêu thị hok,store_info
+bạn biết cách làm bánh hok,else
+áo khoác nam adidas đen có sẵn hok,product
+hàng lỗi gửi lại mất phí hok,terms
+cửa hàng mở ngày lễ hok,store_info
+mình nên chơi game gì cho vui,else
+quần suông nữ xanh đậm có size s hok,product
+thanh toán thẻ visa được hok,terms
+cửa hàng có bán áo đôi hok,store_info
+bạn thích màu hồng hay xanh,else
+áo thun nam gap trắng xanh còn hok,product
+đổi hàng lâu hok,terms
+cửa hàng có ship COD toàn quốc hok,store_info
+hôm nay trời lạnh hok bạn,else
+áo khoác nữ nike xanh có size xl hok,product
+mua hàng có được xem trước hok,terms
+cửa hàng gần công viên hok,store_info
+mình nên ăn sáng món gì,else
+áo sơ mi nam trắng họa tiết giá bao nhiêu,product
+hàng lỗi đổi trong bao lâu,terms
+cửa hàng có bán đồ trẻ em hok,store_info
+bạn có thích nuôi chó mèo hok,else
+quần palazzo nữ đen trắng còn size m hok,product
+ship hàng ngoại tỉnh bao lâu,terms
+cửa hàng có fanpage hok,store_info
+mình nên xem youtube kênh nào,else
+áo thun bé gái xanh pastel có tay bèo hok,product
+mua nhiều có giảm giá hok,terms
+cửa hàng có gần trường học hok,store_info
+bạn biết cách học giỏi hok,else
+áo khoác bomber nữ hồng có sẵn hok,product
+đổi hàng có cần lý do hok,terms
+cửa hàng mở buổi trưa hok,store_info
+hôm nay đi đâu chơi cho vui,else
+quần jogger bé hồng nhạt còn size xl hok,product
+giao hàng có đúng hẹn hok,terms
+cửa hàng có bán đồ nam nhiều hok,store_info
+bạn thích ăn kem hay bánh ngọt,else
+áo thun nam puma trắng giá rẻ hok,product
+hàng lỗi có được hoàn tiền toàn bộ hok,terms
+cửa hàng có ở nguyễn trãi hok,store_info
+mình nên tập thể dục lúc nào,else
+áo sơ mi bé trai pikachu còn size s hok,product
+mua online có bảo hành hok,terms
+cửa hàng có ship qua shopee hok,store_info
+bạn có thích chụp ảnh hok,else
+áo khoác denim nam xanh đậm có sẵn hok,product
+đổi size khác có nhanh hok,terms
+cửa hàng có bán đồ nữ nhiều hok,store_info
+mình nên nghe nhạc gì cho chill,else
+quần dài bé chấm bi đen còn hok,product
+ship hàng có tracking hok,terms
+cửa hàng có gần bưu điện hok,store_info
+bạn biết cách làm slime hok,else
+áo thun nữ đen puma còn size l hok,product
+mua hàng có hóa đơn hok,terms
+cửa hàng có bán qua lazada hok,store_info
+hôm nay có gì vui để làm hok,else
+áo bé gái hồng sọc nhăn giá bao nhiêu,product
+hàng lỗi đổi qua bưu điện được hok,terms
+cửa hàng có ship nhanh hok,store_info
+bạn thích chơi bóng đá hay cầu lông,else
+quần jean bé xanh có co giãn hok,product
+mua 2 cái có ưu đãi gì hok,terms
+cửa hàng có gần bệnh viện hok,store_info
+mình nên xem phim hài hay phim tình cảm,else
+áo khoác dù nữ hồng pastel còn hok,product
+giao hàng trễ có bồi thường hok,terms
+cửa hàng có bán đồ thể thao hok,store_info
+bạn có thích vẽ tranh hok,else
+áo thun nam adidas xanh đậm giá bao nhiêu,product
+đổi hàng có cần nguyên tem hok,terms
+cửa hàng có ở quận khác hok,store_info
+mình nên ăn trưa ở đâu ngon,else
+áo khoác nam da lộn xanh đen còn hok,product
+mua hàng có được tặng quà hok,terms
+cửa hàng có bán đồ mùa đông hok,store_info
+bạn biết cách làm đồ handmade hok,else
+quần suông nữ xanh nhạt có dây buộc hok,product
+ship hàng nội thành có rẻ hok,terms
+cửa hàng có gần trạm xe buýt hok,store_info
+mình nên học gì cho tương lai,else
+áo thun bé trai goal goal còn size m hok,product
+mua online có hỗ trợ đổi trả hok,terms
+cửa hàng có bán đồ giá rẻ hok,store_info
+bạn thích mùa hè hay mùa đông,else
+áo khoác nam north face xanh rêu có sẵn hok,product
+hàng lỗi có được gửi lại miễn phí hok,terms
+cửa hàng có bán đồ đôi hok,store_info
+mình nên đi ngủ lúc mấy giờ,else
+quần palazzo nữ xanh đậm còn size xl hok,product
+thanh toán qua momo được hok,terms
+cửa hàng có gần cầu vượt hok,store_info
+bạn có thích ăn đồ nướng hok,else
+áo thun nữ cổ tròn đen giá bao nhiêu,product
+mua hàng có được tích điểm hok,terms
+cửa hàng có bán qua tiki hok,store_info
+mình nên mua quà gì cho bạn,else
+áo sơ mi nam xanh navy ngắn tay còn hok,product
+đổi hàng có cần gọi trước hok,terms
+cửa hàng có ship qua grab hok,store_info
+bạn biết cách làm tóc đẹp hok,else
+áo khoác nam nike đen trơn có size l hok,product
+giao hàng có cần ký nhận hok,terms
+cửa hàng có bán đồ công sở hok,store_info
+mình nên chơi nhạc cụ gì,else
+áo thun bé gái hồng pastel còn size s hok,product
+mua nhiều có được giảm ship hok,terms
+cửa hàng có gần trung tâm thương mại hok,store_info
+bạn thích trà hay nước ngọt,else
+quần jogger nam xám có túi hộp hok,product
+hàng lỗi có được đổi sang màu khác hok,terms
+cửa hàng có bán đồ bé gái nhiều hok,store_info
+mình nên xem phim gì trên netflix,else
+áo thun nam uniqlo trắng giá bao nhiêu,product
+mua hàng có được bảo hành lâu hok,terms
+cửa hàng có ở mỗ lao hok,store_info
+bạn có thích đi bộ hok,else
+áo sơ mi nữ xanh nhạt ngắn tay còn hok,product
+đổi hàng có cần giữ hộp hok,terms
+cửa hàng có bán đồ nam rẻ hok,store_info
+mình nên học nấu ăn ở đâu,else
+áo khoác nữ phao hồng nhạt có mũ hok,product
+ship hàng có giao buổi tối hok,terms
+cửa hàng có gần rạp chiếu phim hok,store_info
+bạn biết cách làm đồ uống hok,else
+áo thun nam raglan vàng nâu còn hok,product
+mua online có được thử hok,terms
+cửa hàng có bán đồ mùa hè hok,store_info
+mình nên đi chơi với ai hôm nay,else
+quần dài nam xanh navy có sọc hok,product
+hàng lỗi có được đổi qua mail hok,terms
+cửa hàng có ship qua vietel post hok,store_info
+bạn thích ăn pizza hay hamburger,else
+áo thun bé trai đỏ USA còn size xl hok,product
+mua hàng có được giảm giá lần sau hok,terms
+cửa hàng có bán đồ unisex hok,store_info
+mình nên mua sách gì để đọc,else
+áo sơ mi bé trai trắng đen có pikachu hok,product
+giao hàng có báo trước hok,terms
+cửa hàng có gần nhà văn hóa hok,store_info
+bạn có thích đi du lịch hok,else
+áo khoác nữ jeans xanh nhạt còn size m hok,product
+đổi hàng có cần chụp ảnh hok,terms
+cửa hàng có bán đồ phong cách hàn quốc hok,store_info
+mình nên làm gì để thư giãn,else
+quần âu nam đen có co giãn hok,product
+mua hàng có được gửi tặng hok,terms
+cửa hàng có gần ngân hàng hok,store_info
+bạn biết cách chăm sóc da hok,else
+áo thun nam cổ tròn trắng có logo hok,product
+ship hàng có giao cuối tuần hok,terms
+cửa hàng có bán đồ bé trai nhiều hok,store_info
+mình nên nghe podcast nào,else
+áo sơ mi nữ linen xanh pastel còn hok,product
+hàng lỗi có được đổi tại cửa hàng hok,terms
+cửa hàng có ở gần đường nguyễn trãi hok,store_info
+bạn thích chơi game online hay offline,else
+áo khoác nam slim fit vàng còn size l hok,product
+mua online có được đổi size hok,terms
+cửa hàng có bán đồ thể thao nữ hok,store_info
+mình nên ăn tối ở đâu ngon,else
+quần palazzo nữ kèm đai có màu trắng hok,product
+giao hàng có cần đặt trước hok,terms
+cửa hàng có gần nhà thờ hok,store_info
+bạn có thích xem bóng đá hok,else
+áo thun bé gái cổ tròn trắng còn hok,product
+mua hàng có được đổi màu hok,terms
+cửa hàng có bán đồ giá sỉ hok,store_info
+mình nên học gì để kiếm tiền,else
+áo khoác nữ đỏ đô có khóa kéo hok,product
+ship hàng có giao qua ghtk hok,terms
+cửa hàng có gần khu đô thị hok,store_info
+bạn biết cách làm video hok,else
+áo thun nam puma trắng có chữ xanh hok,product
+hàng lỗi có được gửi lại qua grab hok,terms
+cửa hàng có bán đồ phong cách nhật hok,store_info
+mình nên đi xem phim với ai,else
+áo sơ mi bé trai xanh navy ngắn tay còn hok,product
+mua online có được xem hàng trước hok,terms
+cửa hàng có gần công ty hok,store_info
+bạn thích ăn đồ ngọt hay mặn,else
+áo khoác nam denim xanh có túi hok,product
+đổi hàng có cần liên hệ trước hok,terms
+cửa hàng có bán đồ mùa thu hok,store_info
+mình nên làm gì vào buổi tối,else
+quần dài bé gái đen chấm bi còn size s hok,product
+giao hàng có giao qua ahamove hok,terms
+cửa hàng có gần khách sạn hok,store_info
+bạn có thích chạy bộ hok,else
+áo thun nữ cổ tròn cotton đen còn hok,product
+mua hàng có được giảm giá thêm hok,terms
+cửa hàng có bán đồ phong cách âu hok,store_info
+mình nên mua hoa gì tặng mẹ,else
+áo sơ mi nam trắng dài tay còn size xl hok,product
+hàng lỗi có được đổi qua zalo hok,terms
+cửa hàng có gần trung tâm hội nghị hok,store_info
+bạn biết cách làm đồ chơi hok,else
+áo khoác nam nike đen có mũ hok,product
+ship hàng có giao qua lalamove hok,terms
+cửa hàng có bán đồ giá rẻ cho học sinh hok,store_info
+mình nên đi đâu cuối tuần này,else
+áo thun bé trai trắng goal còn size l hok,product
+mua online có được hỗ trợ ship hok,terms
+cửa hàng có gần sân vận động hok,store_info
+bạn thích ăn sushi hay sashimi,else
+quần jogger bé họa tiết còn size m hok,product
+giao hàng có cần đặt cọc hok,terms
+cửa hàng có bán đồ phong cách vintage hok,store_info
+mình nên học gì để thư giãn,else
+áo khoác nữ adidas hồng pastel còn hok,product
+đổi hàng có cần giữ túi hok,terms
+cửa hàng có gần thư viện hok,store_info
+bạn có thích nghe rap hok,else
+áo thun nam xanh đậm adidas còn size s hok,product
+mua hàng có được tặng voucher hok,terms
+cửa hàng có bán đồ phong cách hiphop hok,store_info
+mình nên xem show gì trên tivi,else
+áo sơ mi nữ xanh nhạt cotton còn hok,product
+hàng lỗi có được đổi qua fanpage hok,terms
+cửa hàng có gần khu vui chơi hok,store_info
+bạn biết cách làm đồ ăn vặt hok,else
+áo khoác nam xanh rêu nylon còn size xl hok,product
+ship hàng có giao qua ghnh hok,terms
+cửa hàng có bán đồ phong cách thể thao hok,store_info
+mình nên đi ngủ sớm hay thức khuya,else
+quần suông nữ linen xanh có sẵn hok,product
+mua online có được kiểm hàng trước hok,terms
+cửa hàng có gần nhà hàng hok,store_info
+bạn thích chơi cờ caro hay cờ tướng,else
+áo thun bé gái hồng có chữ còn size m hok,product
+đổi hàng có cần chụp hóa đơn hok,terms
+cửa hàng có bán đồ giá rẻ cho sinh viên hok,store_info
+mình nên làm gì để vui vẻ hơn,else
+áo khoác nữ phao hồng có lớp lót hok,product
+giao hàng có giao qua j&t hok,terms
+cửa hàng có gần sân bay hok,store_info
+bạn có thích ăn đồ chiên hok,else
+áo thun nam gap phối màu còn size l hok,product
+mua hàng có được giảm giá sốc hok,terms
+cửa hàng có bán đồ phong cách tối giản hok,store_info
+mình nên đi chơi đâu gần hà nội,else
+áo sơ mi bé trai trắng có họa tiết hok,product
+hàng lỗi có được đổi qua instagram hok,terms
+cửa hàng có gần trung tâm văn hóa hok,store_info
+bạn biết cách làm đồ thủ công hok,else
+áo khoác nữ nike xanh đậm còn size s hok,product
+ship hàng có giao qua viettel hok,terms
+cửa hàng có bán đồ phong cách boho hok,store_info
+mình nên ăn gì để khỏe mạnh,else
+áo thun nam puma đen có logo hồng hok,product
+mua online có được đổi tại cửa hàng hok,terms
+cửa hàng có gần nhà ga hok,store_info
+bạn thích xem phim hoạt hình hay phim hành động,else
+áo sơ mi nam xanh navy dài tay còn hok,product
+đổi hàng có cần mang theo hộp hok,terms
+cửa hàng có bán đồ phong cách streetwear hok,store_info
+mình nên học gì để kiếm việc làm,else
+áo khoác nam denim xanh đậm còn size m hok,product
+giao hàng có giao qua gojek hok,terms
+cửa hàng có gần bảo tàng hok,store_info
+bạn có thích ăn đồ cay hok,else
+xin chào,store_info
+hello shop,store_info
+alo ạ,store_info
+có ai đây không,store_info
+hí shop,store_info
+hi,store_info
+Áo thun Puma nam màu đen giá bao nhiêu,product
+Chính sách đổi trả áp dụng cho hàng giảm giá không,terms
+Cửa hàng có địa chỉ chính xác ở đâu,store_info
+Hôm nay có phải ngày đẹp để đi chơi không,else
+quần jogger nam Adidas có màu xanh không,product
+Giao hàng nội thành mất bao lâu vậy,terms
+cửa hàng mở cửa vào thứ hai mấy giờ,store_info
+Bạn có biết cách làm bánh mì không,else
+Áo sơ mi nữ Zara xanh pastel còn size L không,product
+Hàng lỗi có được hoàn tiền qua chuyển khoản không,terms
+Cửa hàng có số hotline nào để gọi không,store_info
+tối nay mình nên nghe bài hát nào,else
+Váy bé gái Carter's hồng có size XL không,product
+Thanh toán trước có được giảm giá không,terms
+cửa hàng có hỗ trợ đặt hàng qua mạng không,store_info
+Trời lạnh thế này mặc gì cho ấm,else
+áo polo nam Ralph Lauren trắng giá bao nhiêu,product
+Chính sách bảo hành áp dụng cho đồ sale không,terms
+Cửa hàng có gần khu vực Hoàn Kiếm không,store_info
+bạn thích đội bóng nào nhất,else
+Quần palazzo nữ Zara đen trắng còn size S không,product
+Mua hàng online có được kiểm tra trước không,terms
+cửa hàng có kênh youtube không,store_info
+Mình nên học ngoại ngữ nào trước,else
+áo khoác jeans nữ Zara xanh nhạt giá bao nhiêu,product
+Đổi hàng có cần mang theo túi đựng không,terms
+Cửa hàng có bán qua ứng dụng nào không,store_info
+bạn có biết cách chăm sóc tóc không,else
+Áo thun nam Nike vàng kem còn size M không,product
+Giao hàng có tính phí với đơn dưới 500k không,terms
+cửa hàng có ở gần đường Láng không,store_info
+Hôm nay mình nên làm gì cho vui,else
+váy hoa nhí bé gái Uniqlo còn size L không,product
+Hàng lỗi đổi tại cửa hàng có nhanh không,terms
+Cửa hàng có hỗ trợ giao hàng qua bưu điện không,store_info
+bạn thích ăn món Việt hay món Tây,else
+Quần tây nam Hugo Boss đen có size XL không,product
+Mua hàng COD có cần ký nhận không,terms
+cửa hàng có gần trung tâm thương mại Vincom không,store_info
+Mình nên xem phim gì cuối tuần này,else
+áo thun bé trai Nike đỏ còn size S không,product
+Chính sách hoàn tiền xử lý trong bao lâu,terms
+Cửa hàng có bán đồ phong cách Hàn Quốc không,store_info
+bạn có thích nuôi cá cảnh không,else
+Áo khoác nữ Nike xanh đậm còn size XL không,product
+Đổi hàng có cần giữ nguyên tem mác không,terms
+cửa hàng có hỗ trợ giao hàng qua Grab không,store_info
+Hôm nay mình nên đi ngủ sớm không,else
+quần suông nữ H&M xanh đậm giá bao nhiêu,product
+Giao hàng có hỗ trợ giao buổi tối không,terms
+Cửa hàng có gần công viên Thống Nhất không,store_info
+bạn biết cách pha cà phê ngon không,else
+Áo thun nam Uniqlo trắng còn size L không,product
+Mua hàng online có được đổi tại cửa hàng không,terms
+cửa hàng có bán đồ phong cách Nhật Bản không,store_info
+Mình nên mua sách gì để đọc cuối tuần,else
+áo sơ mi bé trai H&M xanh navy giá bao nhiêu,product
+Hàng lỗi có được đổi sang sản phẩm khác không,terms
+Cửa hàng có hỗ trợ giao hàng qua Viettel Post không,store_info
+bạn thích chơi game gì nhất,else
+Quần jean bé Levi's xanh còn size M không,product
+Chính sách đổi trả có áp dụng cho đồ khuyến mãi không,terms
+cửa hàng có gần khu vực Cầu Giấy không,store_info
+Hôm nay mình nên ăn món gì cho ngon,else
+áo khoác nam Adidas vàng còn size XL không,product
+Giao hàng có hỗ trợ giao qua Giao Hàng Nhanh không,terms
+Cửa hàng có bán đồ phong cách Âu Mỹ không,store_info
+bạn có biết cách làm đồ handmade không,else
+Áo thun nữ Puma đen logo hồng giá bao nhiêu,product
+Mua hàng có được tích điểm để giảm giá không,terms
+cửa hàng có hỗ trợ giao hàng qua Shopee không,store_info
+Mình nên đi du lịch ở đâu gần Hà Nội,else
+quần jogger bé Gap hồng nhạt còn size S không,product
+Đổi hàng có cần gọi điện trước không,terms
+Cửa hàng có gần khu vực Ba Đình không,store_info
+bạn thích nghe nhạc pop hay rock,else
+Áo sơ mi nam Zara trắng họa tiết còn size L không,product
+Giao hàng có hỗ trợ giao qua J&T không,terms
+cửa hàng có bán đồ phong cách vintage không,store_info
+Hôm nay mình nên mặc màu gì cho hợp,else
+áo khoác nữ Uniqlo phao hồng còn size M không,product
+Hàng lỗi có được gửi lại qua bưu điện không,terms
+Cửa hàng có hỗ trợ giao hàng qua Lazada không,store_info
+bạn có thích xem phim Hàn Quốc không,else
+Quần palazzo nữ H&M xanh đậm còn size XL không,product
+Mua hàng có được giảm giá khi thanh toán online không,terms
+cửa hàng có gần khu vực Thanh Xuân không,store_info
+Mình nên học gì để kiếm tiền nhanh,else
+áo thun bé gái H&M hồng pastel giá bao nhiêu,product
+Chính sách đổi trả có áp dụng cho hàng đặt không,terms
+Cửa hàng có hỗ trợ giao hàng qua Tiki không,store_info
+bạn biết cách làm bánh ngọt không,else
+Áo khoác nam The North Face xanh rêu còn size L không,product
+Giao hàng có hỗ trợ giao qua AhaMove không,terms
+cửa hàng có bán đồ phong cách thể thao không,store_info
+Hôm nay mình nên đi chơi với ai,else
+quần dài bé Zara chấm bi đen còn size M không,product
+Đổi hàng có cần mang theo hóa đơn gốc không,terms
+Cửa hàng có gần khu vực Đống Đa không,store_info
+bạn thích ăn đồ nướng hay đồ hấp,else
+Áo thun nam GAP trắng xanh còn size XL không,product
+Mua hàng có được miễn phí vận chuyển không,terms
+cửa hàng có hỗ trợ giao hàng qua Giao Hàng Tiết Kiệm không,store_info
+Mình nên xem chương trình gì trên TV,else
+áo sơ mi nữ Zara xanh nhạt còn size S không,product
+Hàng lỗi có được đổi qua fanpage không,terms
+Cửa hàng có bán đồ phong cách tối giản không,store_info
+bạn có biết cách chăm sóc cây không,else
+Quần suông nữ Uniqlo xanh nhạt còn size L không,product
+Giao hàng có hỗ trợ giao qua Gojek không,terms
+cửa hàng có gần khu vực Hai Bà Trưng không,store_info
+Hôm nay mình nên nghe podcast nào,else
+áo khoác nữ Adidas hồng pastel còn size M không,product
+Đổi hàng có cần chụp ảnh sản phẩm không,terms
+Cửa hàng có bán đồ phong cách streetwear không,store_info
+bạn thích chơi bóng rổ hay bóng chuyền,else
+Áo thun nam Adidas xanh đậm còn size XL không,product
+Mua hàng có được tặng kèm phụ kiện không,terms
+cửa hàng có gần khu vực Tây Hồ không,store_info
+Mình nên học nấu món gì trước,else
+áo sơ mi bé trai Uniqlo trắng đen còn size S không,product
+Giao hàng có hỗ trợ giao qua Lalamove không,terms
+Cửa hàng có bán đồ phong cách boho không,store_info
+bạn có thích uống trà sữa không,else
+Quần jogger nam Adidas xám còn size L không,product
+Hàng lỗi có được đổi qua Instagram không,terms
+cửa hàng có gần khu vực Long Biên không,store_info
+Hôm nay mình nên làm gì để thư giãn,else
+áo thun nữ Uniqlo xám cổ tim còn size M không,product
+Chính sách đổi trả có áp dụng cho hàng lỗi không,terms
+Cửa hàng có bán đồ phong cách hiphop không,store_info
+bạn biết cách làm đồ uống mát không,else
+Áo khoác nam Levi's denim xanh còn size XL không,product
+Giao hàng có hỗ trợ giao qua Viettel Money không,terms
+cửa hàng có gần khu vực Gia Lâm không,store_info
+Mình nên mua quà gì cho bạn thân,else
+quần jean bé Levi's xanh có co giãn không,product
+Đổi hàng có cần liên hệ qua email không,terms
+Cửa hàng có bán đồ phong cách công sở không,store_info
+bạn thích ăn bánh mì hay cơm,else
+Áo thun nam Puma trắng logo xanh còn size L không,product
+Mua hàng có được giảm giá khi mua số lượng lớn không,terms
+cửa hàng có gần khu vực Hà Đông không,store_info
+Hôm nay mình nên đi đâu cho vui,else
+áo khoác nữ Zara hồng pastel còn size S không,product
+Giao hàng có hỗ trợ giao qua Zalo không,terms
+Cửa hàng có bán đồ phong cách mùa đông không,store_info
+bạn có biết cách làm đồ chơi không,else
+Quần palazzo nữ Zara đen trắng có dây đai không,product
+Hàng lỗi có được đổi qua website không,terms
+cửa hàng có gần khu vực Nam Từ Liêm không,store_info
+Mình nên học gì để phát triển bản thân,else
+áo sơ mi nam Zara xanh navy còn size M không,product
+Chính sách đổi trả có áp dụng cho hàng tồn không,terms
+Cửa hàng có bán đồ phong cách mùa hè không,store_info
+bạn thích xem phim tình cảm hay hài,else
+Áo thun bé trai Nike trắng GOAL còn size XL không,product
+Giao hàng có hỗ trợ giao qua ứng dụng khác không,terms
+cửa hàng có gần khu vực Bắc Từ Liêm không,store_info
+Hôm nay mình nên ăn gì để khỏe,else
+quần suông nữ Uniqlo xanh nhạt có dây buộc không,product
+Đổi hàng có cần mang theo hộp gốc không,terms
+Cửa hàng có bán đồ phong cách unisex không,store_info
+bạn có thích chơi cờ tướng không,else
+Áo khoác nam Nike đen trơn còn size L không,product
+Mua hàng có được hỗ trợ gói quà không,terms
+cửa hàng có gần khu vực Hoàng Mai không,store_info
+Mình nên nghe nhạc gì để thư giãn,else
+áo thun nữ Puma đen còn size XL không,product
+Giao hàng có hỗ trợ giao qua ứng dụng Shopee Express không,terms
+Cửa hàng có bán đồ phong cách trẻ trung không,store_info
+bạn biết cách làm đồ ăn vặt không,else
+Quần jogger bé Gap hồng có họa tiết không,product
+Hàng lỗi có được đổi qua số hotline không,terms
+cửa hàng có gần khu vực Đông Anh không,store_info
+Hôm nay mình nên xem video gì trên YouTube,else
+áo sơ mi nữ Zara xanh nhạt ngắn tay còn size L không,product
+Chính sách đổi trả có áp dụng cho hàng đặt may không,terms
+Cửa hàng có bán đồ phong cách năng động không,store_info
+bạn thích ăn đồ chay hay mặn,else
+Áo thun nam Uniqlo trắng basic còn size M không,product
+Giao hàng có hỗ trợ giao qua ứng dụng GrabExpress không,terms
+cửa hàng có gần khu vực Thanh Trì không,store_info
+Mình nên làm gì để đỡ buồn,else
+quần tây nam Adidas đen còn size XL không,product
+Đổi hàng có cần chụp ảnh lỗi không,terms
+Cửa hàng có bán đồ phong cách thanh lịch không,store_info
+bạn có thích chơi bóng bàn không,else
+Áo khoác nữ H&M đỏ đô còn size S không,product
+Mua hàng có được giảm giá khi giới thiệu bạn bè không,terms
+cửa hàng có gần khu vực Sơn Tây không,store_info
+Hôm nay mình nên đi chơi ở đâu gần nhà,else
+áo thun bé gái Uniqlo hồng nhạt còn size L không,product
+Giao hàng có hỗ trợ giao qua ứng dụng Be không,terms
+Cửa hàng có bán đồ phong cách cá tính không,store_info
+bạn biết cách làm đồ trang trí không,else
+Quần palazzo nữ H&M xanh có size M không,product
+Hàng lỗi có được đổi qua ứng dụng không,terms
+cửa hàng có gần khu vực Ứng Hòa không,store_info
+Mình nên học gì để giỏi hơn,else
+áo sơ mi nam Zara trắng dài tay còn size XL không,product
+Chính sách đổi trả có áp dụng cho hàng lỗi nhỏ không,terms
+Cửa hàng có bán đồ phong cách hiện đại không,store_info
+bạn thích ăn phở hay bún bò,else
+Áo thun nam Nike xanh đậm còn size L không,product
+Giao hàng có hỗ trợ giao qua ứng dụng Baemin không,terms
+cửa hàng có gần khu vực Thường Tín không,store_info
+Hôm nay mình nên làm gì để vui vẻ,else
+quần jean bé Levi's xanh còn size S không,product
+Đổi hàng có cần giữ nguyên bao bì không,terms
+Cửa hàng có bán đồ phong cách mùa thu không,store_info
+bạn có thích nghe nhạc cổ điển không,else
+Áo khoác nam H&M da lộn xanh đen còn size M không,product
+Mua hàng có được hỗ trợ giao hàng miễn phí không,terms
+cửa hàng có gần khu vực Chương Mỹ không,store_info
+Mình nên mua gì để tặng người yêu,else
+áo thun nữ Uniqlo xám còn size XL không,product
+Giao hàng có hỗ trợ giao qua ứng dụng Tiktok Shop không,terms
+Cửa hàng có bán đồ phong cách học sinh không,store_info
+bạn biết cách làm đồ uống detox không,else
+Quần jogger nam Adidas xám có dây rút không,product
+Hàng lỗi có được đổi qua cửa hàng khác không,terms
+cửa hàng có gần khu vực Hoài Đức không,store_info
+Hôm nay mình nên đi đâu cho thoải mái,else
+áo sơ mi bé trai H&M xanh navy còn size L không,product
+Chính sách đổi trả có áp dụng cho hàng mua online không,terms
+Cửa hàng có bán đồ phong cách mùa đông không,store_info
+bạn thích ăn đồ ngọt hay đồ mặn,else
+Áo thun nam Puma trắng còn size S không,product
+Giao hàng có hỗ trợ giao qua ứng dụng Sendo không,terms
+cửa hàng có gần khu vực Đan Phượng không,store_info
+Mình nên làm gì để giảm stress,else
+quần palazzo nữ Zara đen có size XL không,product
+Đổi hàng có cần mang theo giấy bảo hành không,terms
+Cửa hàng có bán đồ phong cách sang trọng không,store_info
+bạn có thích chơi cờ vua không,else
+Áo khoác nữ Uniqlo phao hồng còn size L không,product
+Mua hàng có được giảm giá khi mua combo không,terms
+cửa hàng có gần khu vực Quốc Oai không,store_info
+Hôm nay mình nên ăn gì để đỡ đói,else
+áo thun bé gái H&M hồng còn size M không,product
+Giao hàng có hỗ trợ giao qua ứng dụng VinID không,terms
+Cửa hàng có bán đồ phong cách dễ thương không,store_info
+bạn biết cách làm đồ trang sức không,else
+Quần suông nữ Uniqlo xanh còn size S không,product
+Hàng lỗi có được đổi qua số điện thoại không,terms
+cửa hàng có gần khu vực Thạch Thất không,store_info
+Mình nên nghe gì để ngủ ngon,else
+áo sơ mi nam Zara xanh navy ngắn tay còn size XL không,product
+Chính sách đổi trả có áp dụng cho hàng mua sỉ không,terms
+Cửa hàng có bán đồ phong cách đơn giản không,store_info
+bạn thích ăn cơm hay mì,else
+Áo thun nam Adidas xanh còn size M không,product
+Giao hàng có hỗ trợ giao qua ứng dụng MyGo không,terms
+cửa hàng có gần khu vực Ba Vì không,store_info
+Hôm nay mình nên làm gì để đỡ chán,else
+quần jogger bé Gap hồng còn size L không,product
+Đổi hàng có cần mang theo phiếu mua không,terms
+Cửa hàng có bán đồ phong cách thời thượng không,store_info
+bạn có thích đi bộ không,else
+Áo trễ vai hoa nữ còn hàng không,product
+Mua online đổi size khác được không,terms
+Cửa hàng ở Nguyễn Trãi có dễ tìm không,store_info
+Hôm nay có mưa không bạn,else
+quần tây nam Hugo Boss giá bao nhiêu,product
+Giao hàng đến Hà Đông mất bao lâu,terms
+cửa hàng có chỗ để xe máy không,store_info
+Bạn có biết cách phối đồ đẹp không,else
+Áo polo nam Lacoste hồng còn size L không,product
+Hàng lỗi đổi trong bao lâu thì xong,terms
+Cửa hàng mở cửa sớm nhất lúc mấy giờ,store_info
+mình nên mua quà gì cho mẹ,else
+Váy hoa công chúa bé gái có màu trắng không,product
+Mua COD có cần trả tiền trước không,terms
+cửa hàng có hỗ trợ gọi đặt hàng không,store_info
+Hôm nay mặc áo màu gì hợp phong thủy,else
+áo thun Puma nam đen giá có đắt không,product
+Chính sách hoàn tiền áp dụng cho hàng sale không,terms
+Cửa hàng có gần bến xe Hà Đông không,store_info
+bạn thích trà sữa vị nào nhất,else
+Quần jogger nam Adidas xám còn size M không,product
+Đổi hàng có cần mang hóa đơn không vậy,terms
+cửa hàng có bán qua facebook không,store_info
+Mình nên đi ngủ lúc mấy giờ tối nay,else
+áo sơ mi nữ Zara xanh pastel giá bao nhiêu,product
+Giao hàng miễn phí từ bao nhiêu tiền,terms
+Cửa hàng ở Mỗ Lao có đông khách không,store_info
+bạn có biết cách làm tóc xoăn không,else
+Áo thun bé gái Carter's hồng còn size S không,product
+Hàng lỗi có đổi ngay tại chỗ được không,terms
+cửa hàng có wifi miễn phí không,store_info
+Hôm nay mình nên ăn gì cho rẻ,else
+quần palazzo nữ Zara đen trắng còn không,product
+Mua hàng có được kiểm tra trước khi nhận không,terms
+Cửa hàng có hỗ trợ giao hàng tận nhà không,store_info
+bạn thích phim hành động hay tình cảm,else
+Áo khoác jeans nữ Zara xanh nhạt còn size XL không,product
+Chính sách đổi trả áp dụng cho đồ khuyến mãi không,terms
+cửa hàng có gần trường đại học không,store_info
+Mình nên học gì để kiếm thêm tiền,else
+áo thun nam Nike vàng kem giá bao nhiêu,product
+Giao hàng trễ có được bồi thường không,terms
+Cửa hàng có bán qua zalo không vậy,store_info
+bạn có biết cách chăm sóc da mặt không,else
+Váy bé gái Uniqlo hoa nhí còn size M không,product
+Mua online có được đổi màu khác không,terms
+cửa hàng có nhân viên tư vấn không,store_info
+Hôm nay mình nên đi chơi chỗ nào gần,else
+quần âu nam Adidas đen còn size L không,product
+Hàng lỗi có được hoàn tiền qua momo không,terms
+Cửa hàng có gần chợ Hà Đông không,store_info
+bạn thích nghe nhạc Việt hay nhạc Hàn,else
+Áo polo nam Ralph Lauren trắng còn size XL không,product
+Đổi hàng có mất phí vận chuyển không,terms
+cửa hàng có hỗ trợ giao hàng qua grab không,store_info
+Mình nên mua điện thoại hãng nào,else
+áo thun nữ Puma đen logo cam giá bao nhiêu,product
+Giao hàng có giao vào chủ nhật không,terms
+Cửa hàng ở Hà Nội có mấy chi nhánh,store_info
+bạn có biết cách làm bánh flan không,else
+Quần jogger bé Gap hồng nhạt còn size L không,product
+Mua hàng có được bảo hành bao lâu,terms
+cửa hàng có gần trạm xe buýt không,store_info
+Hôm nay mình nên xem phim gì trên Netflix,else
+áo sơ mi nam Zara xanh navy còn size S không,product
+Chính sách đổi trả có cần lý do không,terms
+Cửa hàng có hỗ trợ giao hàng qua shopee không,store_info
+bạn thích ăn cơm rang hay phở,else
+Áo khoác nữ Uniqlo phao hồng còn size L không,product
+Giao hàng có giao qua Giao Hàng Nhanh không,terms
+cửa hàng có bán đồ giá rẻ không,store_info
+Mình nên làm gì để đỡ căng thẳng,else
+quần suông nữ H&M xanh đậm còn size M không,product
+Hàng lỗi có được đổi qua bưu điện không,terms
+Cửa hàng có gần trung tâm văn hóa không,store_info
+bạn có biết cách làm đồ uống sinh tố không,else
+Áo thun nam Uniqlo trắng còn size XL không,product
+Mua hàng có được giảm giá khi trả thẻ không,terms
+cửa hàng có hỗ trợ giao hàng qua lazada không,store_info
+Hôm nay mình nên mặc quần gì cho thoải mái,else
+áo thun bé trai Nike đỏ USA còn size M không,product
+Đổi hàng có cần chụp ảnh sản phẩm không,terms
+Cửa hàng có gần công viên nhỏ không,store_info
+bạn thích chơi game online hay offline,else
+Quần jean bé Levi's xanh giá bao nhiêu,product
+Giao hàng có hỗ trợ giao qua Viettel Post không,terms
+cửa hàng có bán đồ phong cách teen không,store_info
+Mình nên học nấu món gì đơn giản,else
+áo khoác nam Adidas vàng còn size S không,product
+Chính sách hoàn tiền có nhanh không,terms
+Cửa hàng có gần nhà văn hóa Mỗ Lao không,store_info
+bạn có biết cách làm đồ handmade không,else
+Áo thun nữ Puma đen logo hồng còn size L không,product
+Mua hàng có được tích điểm không vậy,terms
+cửa hàng có hỗ trợ giao hàng qua tiki không,store_info
+Hôm nay mình nên đi đâu cho vui,else
+quần palazzo nữ H&M xanh còn size XL không,product
+Đổi hàng có cần giữ hộp nguyên vẹn không,terms
+Cửa hàng có bán đồ phong cách công sở không,store_info
+bạn thích ăn bánh mì hay bánh bao,else
+Áo sơ mi bé trai H&M xanh navy còn size L không,product
+Giao hàng có hỗ trợ giao qua J&T không,terms
+cửa hàng có gần siêu thị không,store_info
+Mình nên nghe nhạc gì để ngủ ngon,else
+áo thun nam GAP trắng xanh giá bao nhiêu,product
+Hàng lỗi có được đổi qua fanpage không,terms
+Cửa hàng có hỗ trợ giao hàng qua Gojek không,store_info
+bạn có biết cách chăm sóc móng không,else
+Quần suông nữ Uniqlo xanh nhạt còn size S không,product
+Mua hàng có được giảm giá lần sau không,terms
+cửa hàng có gần bệnh viện không,store_info
+Hôm nay mình nên làm gì để khỏe hơn,else
+áo khoác nữ Adidas hồng pastel còn size M không,product
+Chính sách đổi trả có áp dụng cho hàng lỗi không,terms
+Cửa hàng có bán đồ phong cách mùa đông không,store_info
+bạn thích uống nước ép hay sinh tố,else
+Áo thun nam Nike xanh đậm còn size L không,product
+Giao hàng có hỗ trợ giao qua AhaMove không,terms
+cửa hàng có gần nhà thờ không,store_info
+Mình nên xem phim gì tối nay cho vui,else
+quần jean bé Levi's xanh còn size XL không,product
+Đổi hàng có cần mang theo phiếu bảo hành không,terms
+Cửa hàng có bán đồ phong cách Hàn Quốc không,store_info
+bạn có thích chơi cờ caro không,else
+Áo khoác nam Levi's denim xanh còn size S không,product
+Mua hàng có được giảm giá khi mua nhiều không,terms
+cửa hàng có gần trung tâm thương mại không,store_info
+Hôm nay mình nên ăn gì để giảm cân,else
+áo thun nữ Uniqlo xám cổ tim còn size M không,product
+Giao hàng có hỗ trợ giao qua Lalamove không,terms
+Cửa hàng có bán đồ phong cách Nhật Bản không,store_info
+bạn biết cách làm đồ uống mát lạnh không,else
+Quần palazzo nữ Zara đen có size L không,product
+Hàng lỗi có được đổi qua zalo không,terms
+cửa hàng có gần ngân hàng không,store_info
+Mình nên làm gì để tập trung học,else
+áo sơ mi nam Zara trắng dài tay còn size XL không,product
+Chính sách đổi trả có áp dụng cho hàng đặt không,terms
+Cửa hàng có bán đồ phong cách thể thao không,store_info
+bạn thích ăn đồ chiên hay đồ luộc,else
+Áo thun bé gái H&M hồng pastel còn size S không,product
+Giao hàng có hỗ trợ giao qua GrabExpress không,terms
+cửa hàng có gần khu vui chơi không,store_info
+Hôm nay mình nên đi đâu cho mát mẻ,else
+quần jogger nam Adidas xám có túi không,product
+Đổi hàng có cần gọi trước không vậy,terms
+Cửa hàng có bán đồ phong cách vintage không,store_info
+bạn có biết cách làm bánh cupcake không,else
+Áo khoác nữ Uniqlo phao hồng có mũ không,product
+Mua hàng có được giảm giá khi trả qua momo không,terms
+cửa hàng có gần trường tiểu học không,store_info
+Mình nên nghe podcast nào để thư giãn,else
+áo thun nam Puma trắng logo xanh còn size L không,product
+Giao hàng có hỗ trợ giao qua Shopee Express không,terms
+Cửa hàng có bán đồ phong cách tối giản không,store_info
+bạn thích chơi bóng đá hay cầu lông,else
+Quần suông nữ Uniqlo xanh còn size XL không,product
+Hàng lỗi có được đổi qua instagram không,terms
+cửa hàng có gần nhà ga không,store_info
+Hôm nay mình nên làm gì để đỡ buồn,else
+áo sơ mi bé trai Uniqlo trắng đen còn size M không,product
+Chính sách hoàn tiền có áp dụng cho hàng lỗi nhỏ không,terms
+Cửa hàng có bán đồ phong cách năng động không,store_info
+bạn có biết cách làm đồ trang trí không,else
+Áo thun nam Adidas xanh còn size S không,product
+Giao hàng có hỗ trợ giao qua Be không,terms
+cửa hàng có gần nhà hàng không,store_info
+Mình nên mua quà gì cho bạn trai,else
+quần palazzo nữ H&M xanh đậm có dây không,product
+Đổi hàng có cần giữ nguyên tem không,terms
+Cửa hàng có bán đồ phong cách streetwear không,store_info
+bạn thích ăn sushi hay pizza,else
+Áo khoác nam Nike đen trơn còn size XL không,product
+Mua hàng có được tích điểm qua app không,terms
+cửa hàng có gần cầu vượt không,store_info
+Hôm nay mình nên đi đâu cho gần,else
+áo thun bé trai Nike trắng GOAL còn size L không,product
+Giao hàng có hỗ trợ giao qua Viettel Money không,terms
+Cửa hàng có bán đồ phong cách học sinh không,store_info
+bạn có biết cách làm đồ uống detox không,else
+Quần jean bé Levi's xanh có co giãn không,product
+Chính sách đổi trả có áp dụng cho hàng tồn không,terms
+cửa hàng có gần trạm tàu điện không,store_info
+Mình nên học gì để giỏi tiếng Anh,else
+áo thun nữ Puma đen còn size S không,product
+Giao hàng có hỗ trợ giao qua ứng dụng VinID không,terms
+Cửa hàng có bán đồ phong cách dễ thương không,store_info
+bạn thích uống cà phê hay trà,else
+Áo khoác nữ Zara hồng pastel còn size XL không,product
+Đổi hàng có cần mang theo giấy mua không,terms
+cửa hàng có gần khu công nghiệp không,store_info
+Hôm nay mình nên ăn gì cho ngon miệng,else
+quần jogger bé Gap hồng còn size M không,product
+Mua hàng có được giảm giá khi giới thiệu bạn không,terms
+Cửa hàng có bán đồ phong cách cá tính không,store_info
+bạn có biết cách làm bánh ngọt không,else
+Áo sơ mi nam Zara xanh navy ngắn tay còn size L không,product
+Giao hàng có hỗ trợ giao qua Tiktok Shop không,terms
+cửa hàng có gần khu dân cư không,store_info
+Mình nên xem video gì để giải trí,else
+áo thun nam Uniqlo trắng basic còn size XL không,product
+Hàng lỗi có được đổi qua số hotline không,terms
+Cửa hàng có bán đồ phong cách thời thượng không,store_info
+bạn thích ăn đồ nướng hay đồ hấp,else
+Quần suông nữ Uniqlo xanh nhạt có dây buộc không,product
+Chính sách đổi trả có áp dụng cho hàng mua sỉ không,terms
+cửa hàng có gần nhà trẻ không,store_info
+Hôm nay mình nên làm gì để vui vẻ,else
+áo khoác nam Adidas vàng còn size M không,product
+Giao hàng có hỗ trợ giao qua Sendo không,terms
+Cửa hàng có bán đồ phong cách sang trọng không,store_info
+bạn có biết cách làm đồ chơi không,else
+Áo thun bé gái Carter's hồng nhạt còn size L không,product
+Đổi hàng có cần chụp ảnh hóa đơn không,terms
+cửa hàng có gần trung tâm hội nghị không,store_info
+Mình nên nghe nhạc gì để tập trung,else
+quần palazzo nữ Zara đen trắng có size S không,product
+Mua hàng có được giảm giá khi mua combo không,terms
+Cửa hàng có bán đồ phong cách mùa hè không,store_info
+bạn thích ăn phở hay bún chả,else
+Áo sơ mi nữ Zara xanh nhạt còn size XL không,product
+Giao hàng có hỗ trợ giao qua MyGo không,terms
+cửa hàng có gần khu đô thị không,store_info
+Hôm nay mình nên đi đâu cho thoải mái,else
+áo thun nam Nike vàng còn size L không,product
+Chính sách hoàn tiền có áp dụng cho hàng đặt may không,terms
+Cửa hàng có bán đồ phong cách unisex không,store_info
+bạn có biết cách làm đồ trang sức không,else
+Quần jean bé Levi's xanh còn size M không,product
+Đổi hàng có cần liên hệ qua email không,terms
+cửa hàng có gần khách sạn không,store_info
+Mình nên làm gì để đỡ mệt mỏi,else
+áo khoác nữ H&M đỏ đô còn size L không,product
+Giao hàng có hỗ trợ giao qua Baemin không,terms
+Cửa hàng có bán đồ phong cách hiện đại không,store_info
+bạn thích ăn đồ ngọt hay đồ chua,else
+Áo thun nam Puma trắng còn size XL không,product
+Mua hàng có được hỗ trợ gói quà không,terms
+cửa hàng có gần sân vận động không,store_info
+Hôm nay mình nên ăn gì để khỏe mạnh,else
+quần jogger nam Adidas đen còn size S không,product
+Chính sách đổi trả có cần mang theo hộp không,terms
+Cửa hàng có bán đồ phong cách mùa thu không,store_info
+bạn có biết cách làm đồ ăn vặt không,else
+Áo sơ mi bé trai H&M xanh còn size XL không,product
+Giao hàng có hỗ trợ giao qua ứng dụng khác không,terms
+cửa hàng có gần bảo tàng không,store_info
+Mình nên học gì để phát triển bản thân,else
+áo thun nữ Uniqlo xám còn size L không,product
+Đổi hàng có cần giữ nguyên bao bì không,terms
+Cửa hàng có bán đồ phong cách trẻ trung không,store_info
+bạn thích chơi bóng rổ hay bóng bàn,else
+Quần palazzo nữ H&M xanh còn size S không,product
+Mua hàng có được giảm giá khi thanh toán online không,terms
+cửa hàng có gần thư viện không,store_info
+Hôm nay mình nên đi đâu cho rẻ,else
+áo khoác nam Levi's denim xanh đậm còn size L không,product
+Giao hàng có hỗ trợ giao qua ứng dụng Shopee không,terms
+Cửa hàng có bán đồ phong cách đơn giản không,store_info
+bạn có biết cách làm đồ uống nóng không,else
+Áo thun bé trai Nike đỏ còn size S không,product
+Chính sách đổi trả có áp dụng cho hàng mua online không,terms
+cửa hàng có gần công ty không,store_info
+Mình nên làm gì để ngủ ngon hơn,else
+quần suông nữ Uniqlo xanh nhạt còn size M không,product
+Đổi hàng có cần mang theo giấy bảo hành không,terms
+Cửa hàng có bán đồ phong cách năng động không,store_info
+bạn thích ăn đồ cay hay không cay,else
+Áo trễ vai hoa nữ còn stock không bro,product
+Can I đổi hàng if it’s lỗi hả shop,terms
+Hello shop ở Nguyễn Trãi đúng không,store_info
+Hôm nay weather thế nào nhỉ,else
+quần tây nam Hugo Boss how much vậy,product
+Ship to Hanoi bao lâu thì tới bro,terms
+hi shop có open hôm nay không,store_info
+You know how to cook phở không,else
+Áo polo nam Lacoste pink còn size L không,product
+If hàng lỗi thì refund sao shop,terms
+Xin chào shop có gần Hà Đông không,store_info
+mình nên wear gì hôm nay nhỉ,else
+Váy hoa bé gái Carter’s cute quá còn size S không,product
+Can I pay by card khi nhận hàng không,terms
+chào shop có sell online không,store_info
+Hôm nay có event gì fun không,else
+áo thun Puma đen nam price bao nhiêu vậy,product
+Change size khác có charge phí không,terms
+Hello shop có hotline để call không,store_info
+bạn recommend phim nào hay không,else
+Quần jogger Adidas xám still available không,product
+How long để đổi hàng nếu không fit,terms
+hi shop ở Mỗ Lao có parking không,store_info
+Mình nên eat gì cho healthy hôm nay,else
+áo sơ mi nữ Zara pastel green còn size M không,product
+Does shop accept đổi hàng qua mail không,terms
+Chào shop có giao hàng qua grab không,store_info
+you like nghe music gì vậy,else
+Áo thun bé gái Carter’s pink còn size XL không,product
+Refund money mất bao lâu vậy shop,terms
+xin chào shop có wifi free không,store_info
+Hôm nay nên do gì cho relax,else
+quần palazzo Zara black white còn size L không,product
+Can I check hàng trước khi pay không,terms
+Hello shop có gần chợ Hà Đông không,store_info
+bạn có know cách làm bánh không,else
+Áo khoác jeans Zara light blue còn size S không,product
+Ship free từ how much tiền vậy shop,terms
+hi shop có bán qua zalo không,store_info
+Mình nên watch gì tối nay nhỉ,else
+áo thun Nike nam vàng kem how much bro,product
+Change hàng có cần bill không shop,terms
+Chào shop có gần trường đại học không,store_info
+you think hôm nay trời lạnh không,else
+Váy bé gái Uniqlo hoa nhí còn size XL không,product
+Does shop ship qua Viettel Post không,terms
+xin chào shop open mấy giờ vậy,store_info
+Hôm nay mình nên go đâu chơi,else
+quần âu Adidas đen còn size M không,product
+If hàng lỗi thì đổi ngay được không shop,terms
+Hello shop có support qua facebook không,store_info
+bạn có like ăn spicy food không,else
+Áo polo Ralph Lauren white còn size L không,product
+How to return hàng nếu không vừa,terms
+hi shop ở Hà Nội có branch nào không,store_info
+Mình nên buy gì cho girlfriend,else
+áo thun Puma nữ đen logo cam price bao nhiêu,product
+Ship hàng có deliver Sunday không shop,terms
+Chào shop có gần bến xe không,store_info
+you know cách làm trà sữa không,else
+Quần jogger bé Gap pink còn size S không,product
+Warranty cho sản phẩm bao lâu vậy shop,terms
+xin chào shop có sell qua shopee không,store_info
+Hôm nay mình nên listen nhạc gì,else
+áo sơ mi Zara nam navy còn size XL không,product
+Can I đổi hàng mà không cần lý do không,terms
+Hello shop có giao qua J&T không,store_info
+bạn recommend món ăn nào ngon,else
+Áo khoác Uniqlo phao hồng còn size M không,product
+Ship qua Giao Hàng Nhanh bao lâu tới,terms
+hi shop có gần siêu thị không,store_info
+Mình nên wear áo gì cho cool,else
+quần suông H&M xanh đậm còn size L không,product
+Does shop refund qua momo không,terms
+Chào shop có bán đồ teen không,store_info
+you like chơi game gì nhất,else
+Áo thun Uniqlo trắng nam còn size S không,product
+Can I giảm giá if pay online không,terms
+xin chào shop có gần bệnh viện không,store_info
+Hôm nay mình nên eat gì cho cheap,else
+áo thun bé trai Nike đỏ USA còn size L không,product
+Change hàng có need chụp ảnh không shop,terms
+Hello shop có sell qua lazada không,store_info
+bạn có know cách chăm sóc tóc không,else
+Quần jean Levi’s bé xanh price bao nhiêu,product
+Does shop ship qua Gojek không,terms
+hi shop có gần công viên không,store_info
+Mình nên learn gì cho fun,else
+áo khoác Adidas nam vàng còn size XL không,product
+How fast để hoàn tiền nếu lỗi shop,terms
+Chào shop có gần nhà văn hóa không,store_info
+you think mình nên buy giày nào,else
+Áo thun Puma nữ đen logo hồng còn size M không,product
+Can I tích điểm khi mua hàng không,terms
+xin chào shop có sell qua tiki không,store_info
+Hôm nay mình nên go đâu cho chill,else
+quần palazzo H&M xanh còn size S không,product
+Change hàng có cần keep hộp không shop,terms
+Hello shop có gần trạm xe buýt không,store_info
+bạn like ăn bánh mì hay phở,else
+Áo sơ mi H&M bé trai navy còn size XL không,product
+Ship qua AhaMove có available không,terms
+hi shop có bán đồ công sở không,store_info
+Mình nên watch phim gì cho funny,else
+áo thun GAP nam trắng xanh price bao nhiêu,product
+Does shop đổi hàng qua instagram không,terms
+Chào shop có gần nhà ga không,store_info
+you know cách làm đồ uống không,else
+Quần suông Uniqlo xanh nhạt còn size L không,product
+Can I get discount nếu mua nhiều không,terms
+xin chào shop có sell đồ mùa đông không,store_info
+Hôm nay mình nên do gì cho happy,else
+áo khoác Adidas nữ pink còn size XL không,product
+How to đổi hàng nếu không fit shop,terms
+Hello shop có gần cầu vượt không,store_info
+bạn có like nghe rap không,else
+Áo thun Nike nam xanh đậm còn size M không,product
+Ship qua Lalamove có nhanh không shop,terms
+hi shop có bán đồ phong cách Hàn không,store_info
+Mình nên eat gì để fit hơn,else
+quần jean Levi’s bé xanh còn size S không,product
+Does shop accept đổi qua fanpage không,terms
+Chào shop có gần ngân hàng không,store_info
+you think mình nên learn nấu ăn không,else
+Áo khoác Levi’s denim nam xanh còn size L không,product
+Can I pay qua thẻ when nhận hàng không,terms
+xin chào shop có sell đồ vintage không,store_info
+Hôm nay mình nên wear gì cho trendy,else
+áo thun Uniqlo nữ xám cổ tim còn size XL không,product
+Refund qua bank mất bao lâu vậy shop,terms
+Hello shop có gần khu vui chơi không,store_info
+bạn like chơi bóng đá hay bóng rổ,else
+Quần palazzo Zara đen còn size M không,product
+Change size có cần call trước không shop,terms
+hi shop có bán đồ phong cách Nhật không,store_info
+Mình nên buy gì cho bạn thân,else
+áo sơ mi Zara nam trắng dài tay còn size S không,product
+Does shop ship qua GrabExpress không,terms
+Chào shop có gần nhà thờ không,store_info
+you know cách làm bánh ngọt không,else
+Áo thun H&M bé gái pink còn size L không,product
+Can I đổi hàng qua zalo không shop,terms
+xin chào shop có sell đồ thể thao không,store_info
+Hôm nay mình nên go đâu cho gần,else
+quần jogger Adidas nam xám còn size XL không,product
+How to get free ship từ shop vậy,terms
+Hello shop có gần khách sạn không,store_info
+bạn có like ăn đồ nướng không,else
+Áo khoác Uniqlo phao hồng có hood không,product
+Does shop giảm giá khi mua combo không,terms
+hi shop có bán đồ phong cách teen không,store_info
+Mình nên listen gì để chill tối nay,else
+áo thun Puma nam trắng logo xanh còn size M không,product
+Change hàng có cần keep tem không shop,terms
+Chào shop có gần siêu thị Vincom không,store_info
+you think mình nên watch phim Hàn không,else
+Quần suông Uniqlo xanh còn size S không,product
+Can I refund nếu hàng không đúng mô tả không,terms
+xin chào shop có sell qua Gojek không,store_info
+Hôm nay mình nên eat gì cho ngon,else
+áo sơ mi H&M bé trai navy còn size L không,product
+Ship qua Shopee Express bao lâu tới shop,terms
+Hello shop có gần trung tâm thương mại không,store_info
+bạn like ăn sushi hay phở,else
+Áo thun Uniqlo nam trắng còn size XL không,product
+Does shop accept đổi qua email không,terms
+hi shop có bán đồ phong cách công sở không,store_info
+Mình nên do gì để relax cuối tuần,else
+quần palazzo H&M xanh đậm còn size M không,product
+Can I get giảm giá if mua online không,terms
+Chào shop có gần trường tiểu học không,store_info
+you know cách chăm sóc da không,else
+Áo khoác Adidas nam vàng còn size S không,product
+How to đổi hàng nếu size không vừa shop,terms
+xin chào shop có sell đồ mùa hè không,store_info
+Hôm nay mình nên wear gì cho comfy,else
+áo thun Carter’s bé gái hồng còn size XL không,product
+Does shop ship qua Viettel Money không,terms
+Hello shop có gần công viên Thống Nhất không,store_info
+bạn có like chơi game mobile không,else
+Quần jean Levi’s bé xanh price how much,product
+Can I check hàng trước khi nhận không shop,terms
+hi shop có bán đồ phong cách vintage không,store_info
+Mình nên eat gì để healthy hơn,else
+áo sơ mi Zara nữ xanh nhạt còn size L không,product
+Refund qua momo có fast không shop,terms
+Chào shop có gần nhà văn hóa Mỗ Lao không,store_info
+you think mình nên buy quà gì cho mẹ,else
+Áo thun Nike bé trai đỏ còn size M không,product
+Does shop đổi hàng qua số hotline không,terms
+xin chào shop có sell qua Tiki không,store_info
+Hôm nay mình nên go đâu cho vui,else
+quần jogger Gap bé pink còn size XL không,product
+Can I get discount nếu giới thiệu bạn không,terms
+Hello shop có gần trạm tàu điện không,store_info
+bạn like nghe music pop hay rap,else
+Áo khoác Zara nữ pink còn size S không,product
+How to đổi hàng nếu lỗi nhỏ shop,terms
+hi shop có bán đồ phong cách tối giản không,store_info
+Mình nên watch phim gì cho relax,else
+áo thun Puma nữ đen còn size L không,product
+Does shop accept đổi qua Instagram không,terms
+Chào shop có gần khu dân cư không,store_info
+you know cách làm đồ handmade không,else
+Quần suông Uniqlo xanh nhạt có dây không,product
+Can I pay qua bank khi nhận hàng không,terms
+xin chào shop có sell đồ phong cách Hàn không,store_info
+Hôm nay mình nên eat gì cho cheap,else
+áo sơ mi Zara nam navy ngắn tay còn size XL không,product
+Ship qua J&T có nhanh không shop,terms
+Hello shop có gần khu công nghiệp không,store_info
+bạn có like ăn đồ ngọt không,else
+Áo thun Nike nam xanh còn size S không,product
+Does shop giảm giá khi mua sỉ không,terms
+hi shop có bán đồ phong cách Nhật không,store_info
+Mình nên do gì để happy hơn,else
+quần palazzo Zara đen trắng còn size M không,product
+Can I đổi hàng qua fanpage không shop,terms
+Chào shop có gần ngân hàng Vietcombank không,store_info
+you think mình nên learn gì cho fun,else
+Áo khoác Levi’s nam denim còn size XL không,product
+How to get refund nếu hàng lỗi shop,terms
+xin chào shop có sell qua Lazada không,store_info
+Hôm nay mình nên wear gì cho cool,else
+áo thun Uniqlo bé gái hồng còn size L không,product
+Does shop ship qua Grab không shop,terms
+Hello shop có gần trường mầm non không,store_info
+bạn like chơi bóng bàn hay cầu lông,else
+Quần jogger Adidas nam đen còn size S không,product
+Can I get free ship nếu mua 2 cái không,terms
+hi shop có bán đồ phong cách thể thao không,store_info
+Mình nên eat gì để fit hơn hôm nay,else
+áo sơ mi H&M bé trai xanh còn size M không,product
+Change hàng có cần keep bao bì không shop,terms
+Chào shop có gần nhà hàng không,store_info
+you know cách làm đồ uống nóng không,else
+Áo thun Puma nam trắng còn size XL không,product
+Does shop accept đổi qua zalo không,terms
+xin chào shop có sell đồ mùa đông không,store_info
+Hôm nay mình nên go đâu cho comfy,else
+quần suông H&M xanh còn size L không,product
+Can I refund qua bank nếu không vừa không,terms
+Hello shop có gần khu đô thị không,store_info
+bạn có like nghe music Việt không,else
+Áo khoác Uniqlo nữ phao hồng còn size S không,product
+How to đổi hàng nếu không đúng size shop,terms
+hi shop có bán đồ phong cách công sở không,store_info
+Mình nên watch gì để chill tối nay,else
+áo thun Nike bé trai trắng còn size L không,product
+Does shop ship qua Shopee không shop,terms
+Chào shop có gần trung tâm hội nghị không,store_info
+you think mình nên eat gì cho ngon,else
+Quần jean Levi’s bé xanh còn size XL không,product
+Can I get discount khi pay qua thẻ không,terms
+xin chào shop có sell đồ phong cách teen không,store_info
+Hôm nay mình nên do gì để relax,else
+áo sơ mi Zara nữ xanh còn size M không,product
+Change hàng có cần call hotline không shop,terms
+Hello shop có gần bảo tàng không,store_info
+bạn like ăn phở hay bún bò,else
+Áo thun Uniqlo nam trắng còn size S không,product
+Does shop accept đổi qua email không shop,terms
+hi shop có bán đồ phong cách vintage không,store_info
+Mình nên wear gì để trendy hôm nay,else
+quần palazzo H&M xanh đậm còn size XL không,product
+Can I get refund nếu hàng lỗi nhỏ không,terms
+Chào shop có gần thư viện không,store_info
+you know cách làm bánh cupcake không,else
+Áo khoác Adidas nam vàng còn size L không,product
+How to đổi hàng nếu không vừa shop,terms
+xin chào shop có sell đồ phong cách Hàn không,store_info
+Hôm nay mình nên eat gì cho healthy,else
+áo thun Carter’s bé gái hồng còn size S không,product
+Does shop ship qua Viettel Post không shop,terms
+Hello shop có gần công viên nhỏ không,store_info
+bạn có like chơi game PC không,else
+Quần suông Uniqlo xanh nhạt còn size XL không,product
+Can I đổi hàng qua Instagram không shop,terms
+hi shop có bán đồ phong cách Nhật không,store_info
+Mình nên do gì để happy hôm nay,else
+áo sơ mi Zara nam trắng còn size L không,product
+Ship qua Giao Hàng Nhanh có fast không shop,terms
+Chào shop có gần trạm xe buýt không,store_info
+you think mình nên buy gì cho bạn,else
+Áo thun Puma nữ đen logo cam còn size XL không,product
+Does shop giảm giá khi mua combo không shop,terms
+xin chào shop có sell đồ phong cách thể thao không,store_info
+Hôm nay mình nên watch phim gì cho vui,else
+quần jogger Adidas nam xám còn size S không,product
+Can I get free ship nếu mua online không,terms
+Hello shop có gần nhà ga không,store_info
+bạn like ăn đồ chiên hay đồ luộc,else
+Áo khoác Levi’s denim nam xanh còn size M không,product
+How to đổi hàng nếu lỗi nhỏ shop,terms
+hi shop có bán đồ phong cách công sở không,store_info
+Mình nên eat gì để ngon miệng hôm nay,else
+áo thun Uniqlo bé gái hồng còn size XL không,product
+Does shop accept đổi qua fanpage không shop,terms
+Chào shop có gần khu vui chơi không,store_info
+you know cách làm đồ uống sinh tố không,else
+Quần palazzo Zara đen còn size S không,product
+Can I refund qua momo nếu không vừa không,terms
+xin chào shop có sell đồ phong cách teen không,store_info
+Hôm nay mình nên go đâu cho relax,else
+áo sơ mi H&M bé trai navy còn size XL không,product
+Ship qua J&T có nhanh không shop,terms
+Hello shop có gần trung tâm thương mại không,store_info
+bạn có like nghe music pop không,else
+Áo trễ vai hoa nữ còn size M không bro,product
+Can I đổi hàng qua Shopee nếu lỗi không,terms
+Hello shop có gần đường Nguyễn Trãi không,store_info
+Hôm nay mình nên eat gì cho ngon nhỉ,else
+quần tây Hugo Boss đen price how much,product
+Ship qua Grab bao lâu thì tới shop,terms
+hi shop có bán đồ bé trai không,store_info
+You know cách làm bánh pizza không,else
+Áo polo Lacoste nam trắng còn size XL không,product
+Does shop refund qua thẻ if hàng lỗi không,terms
+Chào shop có open vào thứ bảy không,store_info
+mình nên wear gì để cool hôm nay,else
+Váy hoa bé gái Carter’s còn size L không,product
+Can I pay bằng cash khi nhận hàng không,terms
+xin chào shop có gần khu Mỗ Lao không,store_info
+Hôm nay weather đẹp không bạn,else
+áo thun Puma nam đen logo trắng còn không,product
+How to đổi hàng nếu size không fit shop,terms
+Hello shop có hỗ trợ qua zalo không,store_info
+bạn recommend món ăn nào cheap,else
+Quần jogger Adidas nam xanh còn size S không,product
+Ship qua J&T có track được không shop,terms
+hi shop có gần bến xe Hà Đông không,store_info
+Mình nên watch phim gì cho chill,else
+áo sơ mi Zara nữ xanh nhạt còn size XL không,product
+Does shop đổi hàng qua Viettel Post không,terms
+Chào shop có sell qua instagram không,store_info
+you like nghe music rock hay pop,else
+Áo thun bé gái H&M hồng còn size M không,product
+Can I get refund nếu hàng không đúng size,terms
+xin chào shop có wifi cho khách không,store_info
+Hôm nay mình nên do gì cho fun,else
+quần palazzo Zara trắng đen còn size S không,product
+How long để ship hàng đến Thanh Xuân,terms
+Hello shop có gần trường học không,store_info
+bạn có know cách làm trà chanh không,else
+Áo khoác jeans Zara nữ xanh còn size L không,product
+Does shop free ship cho order trên 1 triệu không,terms
+hi shop có hỗ trợ qua facebook không,store_info
+Mình nên eat gì để healthy hôm nay,else
+áo thun Nike nam vàng còn size M không,product
+Can I đổi hàng nếu không thích màu không,terms
+Chào shop có gần công viên không,store_info
+you think mình nên buy gì cho bạn,else
+Váy bé gái Uniqlo hoa nhí còn size S không,product
+Ship qua Giao Hàng Nhanh có fast không shop,terms
+xin chào shop có sell qua tiki không,store_info
+Hôm nay mình nên go đâu cho relax,else
+quần âu Adidas nam đen còn size XL không,product
+How to get refund nếu hàng lỗi nhỏ shop,terms
+Hello shop có gần nhà văn hóa không,store_info
+bạn like chơi game gì nhất,else
+Áo polo Ralph Lauren nam trắng còn size M không,product
+Does shop accept đổi qua email không shop,terms
+hi shop có bán đồ phong cách teen không,store_info
+Mình nên listen music gì để ngủ ngon,else
+áo thun Puma nữ đen logo hồng còn size L không,product
+Can I pay qua momo khi nhận hàng không,terms
+Chào shop có gần siêu thị không,store_info
+you know cách làm đồ uống detox không,else
+Quần jogger Gap bé hồng còn size XL không,product
+Ship qua Gojek có charge thêm phí không,terms
+xin chào shop có hỗ trợ qua shopee không,store_info
+Hôm nay mình nên wear gì cho trendy,else
+áo sơ mi Zara nam navy còn size S không,product
+Does shop đổi hàng qua fanpage không shop,terms
+Hello shop có gần bệnh viện không,store_info
+bạn recommend phim nào funny,else
+Áo khoác Uniqlo phao hồng còn size XL không,product
+Can I get discount nếu mua 3 cái không,terms
+hi shop có bán đồ phong cách Hàn không,store_info
+Mình nên eat gì để fit hơn hôm nay,else
+quần suông H&M xanh đậm còn size M không,product
+How to đổi hàng nếu không vừa size shop,terms
+Chào shop có gần trạm xe buýt không,store_info
+you like ăn đồ nướng hay đồ luộc,else
+Áo thun Uniqlo nam trắng còn size L không,product
+Does shop refund qua bank nếu lỗi không,terms
+xin chào shop có sell qua lazada không,store_info
+Hôm nay mình nên do gì để happy,else
+áo thun bé trai Nike đỏ còn size S không,product
+Can I check hàng trước khi pay không shop,terms
+Hello shop có gần nhà ga không,store_info
+bạn có know cách làm bánh ngọt không,else
+Quần jean Levi’s bé xanh còn size M không,product
+Ship qua Viettel Post bao lâu thì tới,terms
+hi shop có bán đồ phong cách Nhật không,store_info
+Mình nên watch gì để relax tối nay,else
+áo khoác Adidas nam vàng còn size XL không,product
+Does shop free ship cho đơn trên 500k không,terms
+Chào shop có gần cầu vượt không,store_info
+you think mình nên learn gì cho cool,else
+Áo thun Puma nữ đen còn size S không,product
+Can I đổi hàng qua zalo không shop,terms
+xin chào shop có hỗ trợ qua tiki không,store_info
+Hôm nay mình nên go đâu cho comfy,else
+quần palazzo H&M xanh còn size L không,product
+How to get discount khi mua online shop,terms
+Hello shop có gần khu vui chơi không,store_info
+bạn like nghe music Việt hay Hàn,else
+Áo sơ mi H&M bé trai navy còn size XL không,product
+Does shop accept đổi qua instagram không,terms
+hi shop có bán đồ phong cách công sở không,store_info
+Mình nên eat gì để ngon miệng hôm nay,else
+áo thun GAP nam trắng xanh còn size M không,product
+Can I pay qua thẻ if nhận hàng không,terms
+Chào shop có gần ngân hàng không,store_info
+you know cách làm đồ handmade không,else
+Quần suông Uniqlo xanh nhạt còn size S không,product
+Ship qua GrabExpress có fast không shop,terms
+xin chào shop có sell đồ thể thao không,store_info
+Hôm nay mình nên wear gì cho comfy,else
+áo khoác Adidas nữ hồng còn size XL không,product
+Does shop refund qua momo nếu không vừa không,terms
+Hello shop có gần nhà thờ không,store_info
+bạn have idea mình nên buy gì cho mẹ,else
+Áo thun Nike nam xanh đậm còn size L không,product
+Can I đổi hàng qua fanpage không shop,terms
+hi shop có bán đồ phong cách vintage không,store_info
+Mình nên listen gì để chill tối nay,else
+quần jean Levi’s bé xanh còn size XL không,product
+How to đổi hàng nếu không đúng màu shop,terms
+Chào shop có gần trung tâm thương mại không,store_info
+you like ăn sushi hay pizza,else
+Áo khoác Levi’s denim nam còn size S không,product
+Does shop free ship cho đơn trên 1 triệu không,terms
+xin chào shop có hỗ trợ qua Gojek không,store_info
+Hôm nay mình nên do gì để relax,else
+áo thun Uniqlo nữ xám còn size M không,product
+Can I get refund nếu hàng lỗi nhỏ không shop,terms
+Hello shop có gần khu dân cư không,store_info
+bạn know cách làm đồ uống nóng không,else
+Quần palazzo Zara đen còn size XL không,product
+Ship qua Shopee có track được không shop,terms
+hi shop có bán đồ phong cách tối giản không,store_info
+Mình nên eat gì để healthy hơn hôm nay,else
+áo sơ mi Zara nam trắng còn size L không,product
+Does shop accept đổi qua zalo không shop,terms
+Chào shop có gần trạm tàu điện không,store_info
+you think mình nên watch phim gì,else
+Áo thun H&M bé gái hồng còn size S không,product
+Can I pay qua bank khi nhận hàng không,terms
+xin chào shop có sell đồ phong cách teen không,store_info
+Hôm nay mình nên go đâu cho fun,else
+quần jogger Adidas nam đen còn size M không,product
+How to get free ship cho đơn nhỏ shop,terms
+Hello shop có gần khách sạn không,store_info
+bạn like chơi bóng đá hay bóng rổ,else
+Áo khoác Uniqlo phao hồng còn size L không,product
+Does shop giảm giá khi pay online không,terms
+hi shop có bán đồ phong cách Hàn không,store_info
+Mình nên wear gì để trendy hôm nay,else
+áo thun Puma nam trắng còn size XL không,product
+Can I đổi hàng nếu không vừa size không shop,terms
+Chào shop có gần siêu thị Vincom không,store_info
+you know cách làm bánh cupcake không,else
+Quần suông H&M xanh còn size S không,product
+Ship qua Viettel Money có available không,terms
+xin chào shop có hỗ trợ qua J&T không,store_info
+Hôm nay mình nên eat gì cho cheap,else
+áo sơ mi H&M bé trai xanh còn size L không,product
+Does shop refund qua thẻ nếu không đúng không,terms
+Hello shop có gần nhà ga không,store_info
+bạn like nghe music pop hay rock,else
+Áo thun Uniqlo nam trắng còn size M không,product
+Can I get discount nếu mua combo không shop,terms
+hi shop có bán đồ phong cách Nhật không,store_info
+Mình nên watch phim gì để funny tối nay,else
+quần palazzo Zara đen trắng còn size XL không,product
+How to đổi hàng nếu không đúng mô tả shop,terms
+Chào shop có gần công viên Thống Nhất không,store_info
+you think mình nên eat gì cho ngon,else
+Áo khoác Adidas nam vàng còn size S không,product
+Does shop free ship cho đơn trên 2 triệu không,terms
+xin chào shop có hỗ trợ qua Shopee Express không,store_info
+Hôm nay mình nên do gì để chill,else
+áo thun Carter’s bé gái hồng còn size M không,product
+Can I pay qua momo nếu COD không shop,terms
+Hello shop có gần trung tâm hội nghị không,store_info
+bạn know cách làm đồ uống sinh tố không,else
+Quần jean Levi’s bé xanh còn size L không,product
+Ship qua Grab có charge phí không shop,terms
+hi shop có bán đồ phong cách công sở không,store_info
+Mình nên wear gì để cool hôm nay,else
+áo sơ mi Zara nữ xanh nhạt còn size S không,product
+Does shop accept đổi qua fanpage không shop,terms
+Chào shop có gần ngân hàng Vietcombank không,store_info
+you like ăn đồ ngọt hay đồ mặn,else
+Áo thun Nike bé trai đỏ còn size XL không,product
+Can I get refund qua bank nếu lỗi không shop,terms
+xin chào shop có sell đồ phong cách teen không,store_info
+Hôm nay mình nên go đâu cho comfy,else
+quần jogger Gap bé hồng còn size S không,product
+How to đổi hàng nếu không vừa shop,terms
+Hello shop có gần khu công nghiệp không,store_info
+bạn think mình nên buy gì cho bạn trai,else
+Áo khoác Zara nữ hồng còn size M không,product
+Does shop ship qua AhaMove không shop,terms
+hi shop có bán đồ phong cách tối giản không,store_info
+Mình nên eat gì để fit hơn hôm nay,else
+áo thun Puma nữ đen còn size XL không,product
+Can I đổi hàng qua Instagram không shop,terms
+Chào shop có gần nhà văn hóa Mỗ Lao không,store_info
+you know cách làm đồ handmade không,else
+Quần suông Uniqlo xanh còn size L không,product
+Ship qua Lalamove có fast không shop,terms
+xin chào shop có hỗ trợ qua Viettel Post không,store_info
+Hôm nay mình nên watch gì để relax,else
+áo sơ mi Zara nam navy còn size M không,product
+Does shop free ship cho đơn trên 700k không,terms
+Hello shop có gần trạm xe buýt không,store_info
+bạn like chơi game online hay offline,else
+Áo thun H&M bé gái hồng còn size XL không,product
+Can I pay qua thẻ khi COD không shop,terms
+hi shop có bán đồ phong cách Hàn không,store_info
+Mình nên do gì để happy hôm nay,else
+quần palazzo H&M xanh đậm còn size S không,product
+How to get discount nếu giới thiệu bạn shop,terms
+Chào shop có gần siêu thị không,store_info
+you think mình nên eat gì cho healthy,else
+Áo khoác Uniqlo phao hồng còn size M không,product
+Does shop refund qua momo nếu không đúng không,terms
+xin chào shop có hỗ trợ qua Gojek không,store_info
+Hôm nay mình nên wear gì cho trendy,else
+áo thun Nike nam trắng còn size L không,product
+Can I đổi hàng qua zalo không shop,terms
+Hello shop có gần cầu vượt không,store_info
+bạn know cách làm bánh flan không,else
+Quần jean Levi’s bé xanh còn size S không,product
+Ship qua Shopee Express có fast không shop,terms
+hi shop có bán đồ phong cách Nhật không,store_info
+Mình nên listen gì để ngủ ngon hôm nay,else
+áo sơ mi H&M bé trai navy còn size M không,product
+Does shop accept đổi qua email không shop,terms
+Chào shop có gần khu vui chơi không,store_info
+you like ăn phở hay bún chả,else
+Áo thun Uniqlo nam trắng còn size XL không,product
+Can I get free ship nếu mua 3 cái không shop,terms
+xin chào shop có hỗ trợ qua J&T không,store_info
+Hôm nay mình nên go đâu cho fun,else
+quần palazzo Zara đen còn size L không,product
+How to đổi hàng nếu không đúng size shop,terms
+Hello shop có gần trung tâm thương mại không,store_info
+bạn think mình nên watch phim gì tối nay,else
+Áo khoác Adidas nam vàng còn size M không,product
+Does shop refund qua bank nếu không vừa không,terms
+hi shop có bán đồ phong cách công sở không,store_info
+Mình nên eat gì để ngon miệng hôm nay,else
+áo thun Carter’s bé gái hồng còn size XL không,product
+Can I pay qua momo khi nhận hàng không shop,terms
+Chào shop có gần nhà ga không,store_info
+you know cách làm đồ uống nóng không,else
+Quần suông H&M xanh còn size M không,product
+Ship qua Viettel Post có track được không shop,terms
+xin chào shop có hỗ trợ qua Shopee không,store_info
+Hôm nay mình nên do gì để relax,else
+áo sơ mi Zara nữ xanh còn size L không,product
+Does shop free ship cho đơn trên 1 triệu không shop,terms
+Hello shop có gần ngân hàng không,store_info
+bạn like nghe music Việt hay Hàn,else
+Áo thun Puma nam đen còn size S không,product
+Can I đổi hàng qua fanpage không shop,terms
+hi shop có bán đồ phong cách tối giản không,store_info
+Mình nên wear gì để cool hôm nay,else
+quần jogger Adidas nam xám còn size XL không,product
+How to get refund nếu không đúng màu shop,terms
+Chào shop có gần trạm tàu điện không,store_info
+you think mình nên eat gì cho cheap,else
+Áo khoác Levi’s denim nam còn size L không,product
+Does shop accept đổi qua zalo không shop,terms
+xin chào shop có hỗ trợ qua Gojek không,store_info
+Hôm nay mình nên go đâu cho comfy,else
+áo thun Uniqlo nữ xám còn size S không,product
+Can I get discount nếu mua online không shop,terms
+Hello shop có gần khu dân cư không,store_info
+bạn know cách làm bánh ngọt không,else
+Quần palazzo H&M xanh còn size XL không,product
+Ship qua GrabExpress có fast không shop,terms
+hi shop có bán đồ phong cách teen không,store_info
+Mình nên watch phim gì để funny hôm nay,else
+áo sơ mi Zara nam trắng còn size M không,product
+Does shop refund qua thẻ nếu lỗi không shop,terms
+Chào shop có gần siêu thị Vincom không,store_info
+you like ăn đồ nướng hay đồ hấp,else
+Áo thun H&M bé gái hồng còn size L không,product
+Can I đổi hàng qua Instagram không shop,terms
+xin chào shop có hỗ trợ qua Viettel Post không,store_info
+Hôm nay mình nên do gì để happy,else
+quần jogger Gap bé hồng còn size M không,product
+How to get free ship nếu mua combo shop,terms
+Hello shop có gần công viên không,store_info
+bạn think mình nên buy gì cho bạn gái,else
+Áo khoác Uniqlo phao hồng còn size S không,product
+Does shop free ship cho đơn trên 800k không shop,terms
+hi shop có bán đồ phong cách Hàn không,store_info
+Mình nên eat gì để fit hơn hôm nay,else
+áo thun Nike nam xanh còn size XL không,product
+Can I pay qua bank nếu COD không shop,terms
+Chào shop có gần nhà văn hóa không,store_info
+you know cách làm đồ uống detox không,else
+Quần suông Uniqlo xanh nhạt còn size M không,product
+Ship qua Shopee có fast không shop,terms
+xin chào shop có hỗ trợ qua J&T không,store_info
+Hôm nay mình nên wear gì cho trendy,else
+áo sơ mi H&M bé trai xanh còn size S không,product
+Does shop accept đổi qua fanpage không shop,terms
+Hello shop có gần trạm xe buýt không,store_info
+bạn like chơi bóng đá hay cầu lông,else

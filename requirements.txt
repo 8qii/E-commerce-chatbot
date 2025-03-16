@@ -1,0 +1,13 @@
+numpy
+torch
+transformers
+sentence_transformers
+flask
+google.generativeai
+flask_cors
+pandas
+sklearn
+pickle
+langchain
+langchain_community
+neo4j
