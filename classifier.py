@@ -1,11 +1,9 @@
+import os
+os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
 import torch
 import torch.nn as nn
-import torch.optim as optim
-from torch.utils.data import Dataset, DataLoader
 from transformers import BertTokenizer, BertModel
-import pandas as pd
 from sklearn.preprocessing import LabelEncoder
-from sklearn.model_selection import train_test_split
 import pickle
 
 
