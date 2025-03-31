@@ -31,9 +31,15 @@ An intelligent shopping assistant chatbot that helps customers find products, an
 ```bash
 git clone https://github.com/8qii/E-commerce-chatbot.git
 cd E-commerce-chatbot
+```
 
 ### 2️⃣ Install dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
 ### 3️⃣ Start the Flask server
+```bash
 python app.py
+```
